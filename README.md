@@ -16,7 +16,7 @@ Comando "gcc lex.yy.c" - compilação do "C"
 
 
 
-Crie um arquivo "exemplo.txt" com as expressõs para validar dentro dele separado por ",".
+Crie um arquivo "exemplo.txt" com as expressõs para validar separado por "enter".
 
 
 Execute os comandos abaixo
