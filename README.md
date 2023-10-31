@@ -19,6 +19,12 @@ Crie um arquivo "exemplo.txt" com as expressõs para validar dentro dele separad
 
 
 Execute os comandos abaixo
+
+
 flex compilador.l
+
+
 gcc lex.yy.c
+
+
 "./a.exe" ou "./a.out"
