@@ -16,7 +16,7 @@ Comando "gcc lex.yy.c" - compilação do "C"
 
 
 
-Crie um arquivo "exemplo.txt" com as expressõs para validar separado por "enter".
+Crie um arquivo "exemplo.txt" com as expressõs para validar separado por ", ou |".
 
 
 Execute os comandos abaixo
@@ -28,4 +28,4 @@ flex compilador.l
 gcc lex.yy.c
 
 
-"./a.exe" ou "./a.out"
+"./a.exe" ou "./a.out" dependendo do sistema operacional.
