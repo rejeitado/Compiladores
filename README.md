@@ -19,7 +19,7 @@ Comando "gcc lex.yy.c" - compilação do "C"
 Crie um arquivo "exemplo.txt" com as expressõs para validar separado por ", ou |".
 
 
-Execute os comandos abaixo
+Execute os comandos abaixo:
 
 
 flex compilador.l
