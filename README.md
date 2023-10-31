@@ -6,7 +6,9 @@ Comando "gcc lex.yy.c" - compilação do "C"
 ./a.exe - Windows
 ./a.out - Linux
 
+
 Crie um arquivo "exemplo.txt" com as expressõs para validar dentro dele separado por ",".
+
 
 Execute os comandos abaixo
 flex compilador.l
