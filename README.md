@@ -14,6 +14,7 @@ Comando "gcc lex.yy.c" - compilação do "C"
 ./a.out - Linux
 
 
+
 Crie um arquivo "exemplo.txt" com as expressõs para validar dentro dele separado por ",".
 
 
